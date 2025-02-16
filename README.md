@@ -1,2 +1,2 @@
-# Maestria_Ciencia_De_Datos_Gupo_9
+# Maestria_Ciencia_De_Datos_Grupo_9
 Maestría_Ciencia_De_Datos
